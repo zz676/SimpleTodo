@@ -17,9 +17,9 @@
   * Improve the organization of my codes and meet Android style guidelines
 
 ## Video Walkthrough
-![alt tag](https://github.com/zz676/SimpleTodo/blob/master/Demo_SimpleTodo.gif)
+         ![alt tag](https://github.com/zz676/SimpleTodo/blob/master/Demo_SimpleTodo.gif)
 
-* GIF created with [LiceCap](http://www.cockos.com/licecap/).
+#### GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Applicant: Zhisheng Zhou	
 Email: zhisheng.zhou003@gmail.com
