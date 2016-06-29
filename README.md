@@ -1,5 +1,5 @@
 # SimpleTodo
-* **Required** Features Implemented:
+* **Required** features implemented:
   * Add and remove items from the todo list
   * Edit todo items
   * App persist todo items and retrieve them properly on app restart
@@ -14,7 +14,7 @@
   * Use a DialogFragment instead of new Activity for editing items
   * Tweak the style improving the UI / UX, play with colors, images or backgrounds
   * Improve the app functionality or user experience
-  * improve the organization of your code and meet Android style guidelines
+  * Improve the organization of my codes and meet Android style guidelines
 
 ## Video Walkthrough
 ![alt tag](https://github.com/zz676/SimpleTodo/blob/master/Demo_SimpleTodo.gif)
