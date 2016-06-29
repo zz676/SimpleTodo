@@ -1,10 +1,10 @@
 # SimpleTodo
-* Features Implemented:
-  Add and remove items from the todo list
-  Edit todo items?
-  App persist todo items and retrieve them properly on app restart
+* **Required** Features Implemented:
+  * Add and remove items from the todo list
+  * Edit todo items
+  * App persist todo items and retrieve them properly on app restart
 
-* The following optional features implemented:
+* **Optional** features implemented:
   * Persist the todo items into SQLite instead of a text file
   * Improve style of the todo items in the list using a custom adapter
   * Add support for completion due dates for todo items
@@ -17,7 +17,8 @@
   * improve the organization of your code and meet Android style guidelines
 
 ## Video Walkthrough
-* ![alt tag](https://github.com/zz676/SimpleTodo/blob/master/Demo_SimpleTodo.gif)
+![alt tag](https://github.com/zz676/SimpleTodo/blob/master/Demo_SimpleTodo.gif)
+
 * GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Applicant: Zhisheng Zhou	
