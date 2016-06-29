@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="edit_text_activity_title">Edit Task</string>
+    <string name="add_task_actionbar_txt">Add Task</string>
+    <string name="title_activity_add_item">Add Task</string>
+    <string name="save_task_actionbar_txt">Save Task</string>
+    <string name="discard_task_actionbar_txt">Discard Task</string>
+    <string name="edit_task_actionbar_txt">Edit Task</string>
+    <string name="delete_task_actionbar_txt">Delete Task</string>
+
+    <string name="task_name_txtview_txt">Task Name</string>
+    <string name="due_date_txtview_txt">Due Date</string>
+    <string name="notes_txtview_txt">Task Notes</string>
+    <string name="priority_txtview_txt">Priority Level</string>
+    <string name="status_txtview_txt">Status</string>
+
+    <string-array name="priority_levels">
+        <item>HIGH</item>
+        <item>MIDEUM</item>
+        <item>LOW</item>
+    </string-array>
+
+    <string-array name="status_levels">
+        <item>Completed</item>
+        <item>Not Started</item>
+        <item>In Progress</item>
+        <item>Cancelled</item>
+    </string-array>
+</resources>
